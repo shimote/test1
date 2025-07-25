@@ -1,3 +1,4 @@
+# Gitの練習 2025//07/25
 # -*- coding: utf-8 -*-
 import time
 import sys
